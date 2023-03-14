@@ -27,6 +27,7 @@ The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command wa
 
 ## Step 7 - Edit the code file to fix the failing test
 ![Picture demonstrating the step 7 of the task](step7.png)
+![Picture demonstrating the step 9 of the task](step71.png)
   
 Keys pressed - Type 'Nano L' <tab> type '.j' <tab> <enter>, make the desired changes, Ctrl+O <enter> Ctrl+X
   
@@ -38,5 +39,6 @@ Keys pressed -
 
 ## Step 9 - Commit and push the resulting change to your Github account
 ![Picture demonstrating the step 9 of the task](step9.png)
+![Picture demonstrating the step 9 of the task](step91.png)
   
 Keys pressed -
