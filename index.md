@@ -51,4 +51,4 @@ The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command wa
 ![Picture demonstrating the step 9 of the task](step9.png)
 ![Picture demonstrating the step 9 of the task](step91.png)
   
-Keys pressed -
+Keys pressed - <up><up><up><up><up><enter>
