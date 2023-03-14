@@ -53,4 +53,4 @@ The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command wa
   
 Keys pressed - <up><up><up><up><up><enter>, typed 'git status', <up><up><up><up><up><up><enter>, <up><up><up><up><up><up><enter>
   
-The commands 'git add'
+The commands 'git add ListExamples.java','git commit -m "Updated"' & 'git push origin main' were 5,6 & 6 up in the bash history respectively at the time of use so I accessed them using the up key for the specified number of times. To check the status,I had to type 'git status' manually as I couldn't spot it in the bash history.
