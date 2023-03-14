@@ -9,14 +9,16 @@
 ## Step 4 - Log into ieng6
 ![Picture demonstrating the step 4 of the task](step4.png)
 
-Keys pressed - Typed ssh <up> 
+Keys pressed - Typed ssh <up><enter>
   
-The account for the remote server 'cs15lwi23agq@ieng6.ucsd.edu' was in the history as I have been using the same account with 'ssh' for a while now. So, I used the up arrow once to access it.
+The account for the remote server 'cs15lwi23agq@ieng6.ucsd.edu' was in the history as I have been using the same account with 'ssh' for a while now. So, I used the up arrow once to access it. I didn't had to enter my password as I already did authetication using ssh keys as suggested in the instructions.
 
 ## Step 5 - Clone your fork of the repository from your Github account
 ![Picture demonstrating the step 5 of the task](step5.png)
  
-Keys pressed -
+Keys pressed - <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>
+  
+I command to clone the fork of the repository from github was 17 up in the search history, so I used up arrow to access it. During the inital run, I copied the url to clone from the local section of the repository which has a special url for ssh keys.
 
 ## Step 6 - Run the tests, demonstrating that they fail
 ![Picture demonstrating the step 6 of the task](step6.png)
