@@ -9,7 +9,7 @@
 ## Step 4 - Log into ieng6
 ![Picture demonstrating the step 4 of the task](step4.png)
 
-Keys pressed - Typed ssh <up><enter>
+Keys pressed - 'Typed ssh <up><enter>'
   
 The account for the remote server 'cs15lwi23agq@ieng6.ucsd.edu' was in the history as I have been using the same account with 'ssh' for a while now. So, I used the up arrow once to access it. I didn't had to enter my password as I already did authetication using ssh keys as suggested in the instructions.
 
