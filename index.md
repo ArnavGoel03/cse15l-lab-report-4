@@ -16,7 +16,7 @@ The account for the remote server 'cs15lwi23agq@ieng6.ucsd.edu' was in the histo
 ## Step 5 - Clone your fork of the repository from your Github account
 ![Picture demonstrating the step 5 of the task](step5.png)
  
-Keys pressed - <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>
+Keys pressed - &lt;up<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>
   
 I command to clone the fork of the repository from github was 17 up in the search history, so I used up arrow to access it. During the inital run, I copied the url to clone from the local section of the repository which has a special url for ssh keys.
 
@@ -53,4 +53,4 @@ The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command wa
   
 Keys pressed - <up><up><up><up><up><enter>, typed 'git status', <up><up><up><up><up><up><enter>, <up><up><up><up><up><up><enter>
   
-The commands 'git add ListExamples.java','git commit -m "Updated"' & 'git push origin main' were 5,6 & 6 up in the bash history respectively at the time of use so I accessed them using the up key for the specified number of times. To check the status,I had to type 'git status' manually as I couldn't spot it in the bash history.
+The commands 'git add ListExamples.java', 'git commit -m "Updated"' & 'git push origin main' were 5,6 & 6 up in the bash history respectively at the time of use so I accessed them using the up key for the specified number of times. To check the status,I had to type 'git status' manually as I couldn't spot it in the bash history.
